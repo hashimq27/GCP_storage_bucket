@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project     = "avian-amulet-378416"
+  project     = "cloudfunctionsproject-382123"
   region      = "us-central1"
 }
 
